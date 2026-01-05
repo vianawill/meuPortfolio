@@ -58,7 +58,7 @@ export const Hero = () => {
 
         <Button variant='outline'>
           <a
-            href='/CV - DEZ 2025.pdf'
+            href='/CvDev2026.pdf'
             download='Curriculo_Willian_Viana.pdf'
           >
             Baixar CV
