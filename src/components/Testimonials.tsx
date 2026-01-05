@@ -101,7 +101,7 @@ export const Testimonials = () => {
                 href={testimonials[curSlide].link}
                 className='inline-flex items-center gap-1 text-sm font-medium hover:text-green-400 text-neutral-400 transition'
               >
-                Project ➝
+                Linkedin ➝
               </a>
             </div>
           </motion.div>
