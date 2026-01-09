@@ -225,6 +225,13 @@ const testimonials: TestimonialsType[] = [
     text: 'Profissional dedicado que atuou no desenvolvimento front-end dos projetos, entregando sempre no prazo, com qualidade e entendimento completo das demandas, mesmo quando os requisitos não estavam totalmente detalhados, demonstrando maturidade técnica e comprometimento acima da média, além de estar visivelmente cerca de quatro anos à frente, em nível profissional e técnico, em relação a outros profissionais da mesma faixa etária, apesar de jovem e ainda sem formação acadêmica.',
     link: 'https://www.linkedin.com/in/vinicius-henrique-166b011b7/',
   },
+  {
+    name: 'Isamel Santiago',
+    role: 'Desenvolvedor Frontend - Alfa Engenharia',
+    image: '/images/ismaelAlfa.png',
+    text: 'Trabalhar com o Willian no Front-End foi uma experiência muito boa. Sempre trouxe ideias boas, principalmente pensando em UX/UI, e tinha um cuidado real com a experiência do usuário, não só com o visual. É aquele tipo de pessoa que questiona, sugere melhorias e ajuda o projeto a evoluir. Além disso, é tranquilo de trabalhar, aberto a feedback e colabora de verdade com o time.',
+    link: 'https://www.linkedin.com/in/ismael-santiago-6b26b5265/',
+  },
 ];
 
 export {
